@@ -7,28 +7,43 @@ h2,h3{
     color: white;
 }
 #rgceni{
-    width: 920;
-    height: 517;
+    width: 900;
+    height: 506;
     border-radius: 15px;
 }
 #lucianogol{
-    width: 920;
-    height: 517;
+    width: 900;
+    height: 506;
+    border-radius: 15px;
 }
 #casares{
-    width: 920;
-    height: 517;
+    width: 900;
+    height: 506;
+    border-radius: 15px;
+}
+#super-copa {
+    width: 900;
+    height: 506;
+    border-radius: 15px;
 }
 #case{
-    width: 920;
-    height: 580;
+    width: 900;
+    height: 506;
+    border-radius: 15px;
 }
 #pato{
-    width: 920;
-    height: 517;}
+    width: 900;
+    height: 506;
+    border-radius: 15px;}
 #kaka{
-    width: 920;
-    height: 517;
+    width: 900;
+    height: 506;
+    border-radius: 15px;
+}
+#morumbis{
+   width: 900;
+    height: 506;
+    border-radius: 15px;
 }
 body{
     margin: 0px;
@@ -57,6 +72,7 @@ body{
     display: flex;
     border-radius: 15px;
     color: white;
+    flex-wrap: wrap;
 
 }
 .noticia{
