@@ -3,6 +3,7 @@
     height: 67px;
     border-radius: 15px;
 }
+
 h2,h3{
     color: white;
 }
@@ -81,4 +82,11 @@ body{
     background-color: black;
     border: 6px solid; 
     border-radius: 15px;
+}
+.rodape{
+    width: 1905px;
+    height: 60px;
+    background-color: black;
+    border-top: 10px solid rgba(227, 6, 19, 0.6);
+
 }
